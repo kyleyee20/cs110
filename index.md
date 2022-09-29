@@ -1,10 +1,13 @@
-![picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpokemondb.net%2Fpokedex%2Fdarmanitan&psig=AOvVaw3kwk8ecwHCYJ2dk0YOqW0z&ust=1664424294396000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIj22ezNtvoCFQAAAAAdAAAAABAD)
+![picture of something](https://img.pokemondb.net/artwork/large/darmanitan-galarian-standard.jpg)
 # Here is a heading
 **BOLD TEXT**
 > Here is a quote text
-'''
-here is a quote code of text
-'''
+below are some git commands
+```
+git status
+git add
+git commit
+```
 [External Link](https://www.google.com/)
 
 [section link here](#section)
